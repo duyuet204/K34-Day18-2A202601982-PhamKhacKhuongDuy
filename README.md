@@ -59,7 +59,7 @@ lab18-production-rag/
 ├── main.py                     # Entry point: chạy toàn bộ pipeline
 ├── check_lab.py                # Kiểm tra định dạng trước khi nộp
 ├── naive_baseline.py           # Baseline (chạy trước)
-├── config.py                   # Shared config
+├── config.py                   # Shared 
 ├── requirements.txt            # Dependencies
 ├── docker-compose.yml          # Qdrant local
 ├── .env.example                # API keys template
